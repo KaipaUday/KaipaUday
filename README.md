@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaipaUday
-- 👀 I’m interested in Engineering
-- 📫 How to reach me uday.kaipa@icloud.com
+- 👀 https://kaipauday.github.io
+- 📫 Reach me - uday.kaipa@icloud.com
 
 <!---
 KaipaUday/KaipaUday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
