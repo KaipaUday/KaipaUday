@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KaipaUday
+- My other account http://github.com/udayreddykaipa
 - 👀 https://kaipauday.github.io
 - 📫 Reach me - uday.kaipa@icloud.com
 
